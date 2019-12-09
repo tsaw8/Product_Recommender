@@ -8,15 +8,15 @@ For this project, we will be using the [Online Retail](http://archive.ics.uci.ed
 ## Exploratory Data Analysis 
 In this section, we will examine customer purchase history, unit price, countries of customers, and product trends. 
 
-Some questions to consider:
-•	How many orders were made by customers?
-•	Who are the top customers with the most numbers of orders?
-•	How many orders per month?
-•	How many orders per day?
-•	How many orders per hour?
-•	How many orders for each country?
-•	Which products are best sellers?
-•	Which product did customers spend the most on?
+Some questions to consider:<br>
+•	How many orders were made by customers? <br>
+•	Who are the top customers with the most numbers of orders?<br>
+•	How many orders per month?<br>
+•	How many orders per day?<br>
+•	How many orders per hour?<br>
+•	How many orders for each country?<br>
+•	Which products are best sellers?<br>
+•	Which product did customers spend the most on?<br>
 
 
 ## Preprocessing 
